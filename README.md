@@ -1,65 +1,58 @@
-<h1 align="center">Blandine Rufino</h1>
+<h1 align="center">Salut 👋, moi c'est Blandine</h1>
+<h3 align="center">Fullstack Developer | Fintech  | Mojaloop Integrator</h3>
+
 <p align="center">
-Fullstack Developer — Fintech & Payment Systems
+  🚀 Construire des solutions digitales utiles en Afrique  
 </p>
 
 <p align="center">
-Building scalable digital solutions across Africa
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Fintech+Builder;ERPNext+Expert;AI+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
 
-### Profile
+### 👩‍💻 À propos de moi
 
-Fullstack developer with a strong focus on fintech ecosystems, payment infrastructures, and enterprise systems.
-
-Currently working on real-world solutions involving:
-- payment automation
-- ERP integrations
-- distributed systems
-
----
-
-### Current Focus
-
-- Mojaloop integration & digital payment interoperability
-- Event-driven architecture (Kafka)
-- Backend systems (Laravel, Django)
-- ERPNext / Frappe ecosystem
+-  Je travaille sur : **Dino Market & solutions de paiement**
+-  J’apprends actuellement : **Mojaloop, Kafka, Microservices**
+-  Intéressée par : **Fintech, IA, systèmes distribués**
+-  Expérience : **ERPNext / Frappe, Laravel, Django**
+-  Fun fact : *Je code plus vite que je ne choisis une tenue 😄*
 
 ---
 
-### Stack
+### 🛠️ Stack & outils
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,js,ts,react,mysql,docker,git,linux,kafka" />
+<img src="https://skillicons.dev/icons?i=laravel,php,python,django,react,js,ts,mysql,docker,git,linux,kafka" />
 </p>
 
 ---
 
-### Selected Work
+### 🚀 Mes projets
 
-- Dino Market — E-commerce platform with local distribution logic  
-- BFTPayPro — Subscription management & automated payment system  
-- ERPNext Integrations — Financial system interoperability  
+-  **Dino Market** → Plateforme e-commerce
+-  **BFTPayPro** → Gestion d’abonnements + paiements automatisés
+-  **ERPNext Integration** → Connexion ERP avec systèmes financiers
 
 ---
 
-### GitHub Metrics
+### 📊 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blando-05&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blando-05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blando-05&theme=tokyonight" />
 </p>
 
 ---
 
-### Contact
+### 📫 Me contacter
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+-  LinkedIn : [(mets ton lien ici)](https://www.linkedin.com/in/mondoukp%C3%A8-blandine-rufino-6599942b6/)
+-  Email : rufinoblandine2002@gmail.com
 
 ---
 
 <p align="center">
-Focused on building reliable, scalable and impactful systems.
+  ✨ "Construire l’avenir, une ligne de code à la fois"
 </p>
