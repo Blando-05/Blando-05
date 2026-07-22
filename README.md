@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est Blandine</h1>
+<h3 align="center">Fullstack Developer | Fintech 💳 | Mojaloop Integrator</h3>
 
-<!--
-**Blando-05/Blando-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Construire des solutions digitales utiles en Afrique  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Fintech+Builder;ERPNext+Expert;AI+Enthusiast&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 À propos de moi
+
+- 🔭 Je travaille sur : **Dino Market & solutions de paiement**
+- 🌱 J’apprends actuellement : **Mojaloop, Kafka, Microservices**
+- 💡 Intéressée par : **Fintech, IA, systèmes distribués**
+- 🛠️ Expérience : **ERPNext / Frappe, Laravel, Django**
+- ⚡ Fun fact : *Je code plus vite que je ne choisis une tenue 😄*
+
+---
+
+### 🛠️ Stack & outils
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,python,django,react,js,ts,mysql,docker,git,linux,kafka" />
+</p>
+
+---
+
+### 🚀 Mes projets
+
+- 🛒 **Dino Market** → Plateforme e-commerce
+- 💳 **BFTPayPro** → Gestion d’abonnements + paiements automatisés
+- 🧾 **ERPNext Integration** → Connexion ERP avec systèmes financiers
+
+---
+
+### 📊 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blando-05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blando-05&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Me contacter
+
+- 💼 LinkedIn : (mets ton lien ici)
+- 📧 Email : (mets ton email)
+
+---
+
+<p align="center">
+  ✨ "Construire l’avenir, une ligne de code à la fois"
+</p>
