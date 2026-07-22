@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | Fintech  | Mojaloop Integrator</h3>
 
 <p align="center">
-  🚀 Construire des solutions digitales utiles en Afrique  
+  Construire des solutions digitales utiles en Afrique  
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 👩‍💻 À propos de moi
+###  À propos de moi
 
 -  Je travaille sur : **Dino Market & solutions de paiement**
 -  J’apprends actuellement : **Mojaloop, Kafka, Microservices**
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Stack & outils
+###  Stack & outils
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,php,python,django,react,js,ts,mysql,docker,git,linux,kafka" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Mes projets
+###  Mes projets
 
 -  **Dino Market** → Plateforme e-commerce
 -  **BFTPayPro** → Gestion d’abonnements + paiements automatisés
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Mes stats GitHub
+###  Mes stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blando-05&show_icons=true&theme=tokyonight" />
@@ -46,9 +46,9 @@
 
 ---
 
-### 📫 Me contacter
+###  Me contacter
 
--  LinkedIn : [(mets ton lien ici)](https://www.linkedin.com/in/mondoukp%C3%A8-blandine-rufino-6599942b6/)
+-  LinkedIn : https://www.linkedin.com/in/mondoukp%C3%A8-blandine-rufino-6599942b6/
 -  Email : rufinoblandine2002@gmail.com
 
 ---
