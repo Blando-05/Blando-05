@@ -1,58 +1,65 @@
-<h1 align="center">Salut 👋, moi c'est Blandine</h1>
-<h3 align="center">Fullstack Developer | Fintech 💳 | Mojaloop Integrator</h3>
-
+<h1 align="center">Blandine Rufino</h1>
 <p align="center">
-  🚀 Construire des solutions digitales utiles en Afrique  
+Fullstack Developer — Fintech & Payment Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Fintech+Builder;ERPNext+Expert;AI+Enthusiast&center=true&width=500&height=50">
+Building scalable digital solutions across Africa
 </p>
 
 ---
 
-### 👩‍💻 À propos de moi
+### Profile
 
-- 🔭 Je travaille sur : **Dino Market & solutions de paiement**
-- 🌱 J’apprends actuellement : **Mojaloop, Kafka, Microservices**
-- 💡 Intéressée par : **Fintech, IA, systèmes distribués**
-- 🛠️ Expérience : **ERPNext / Frappe, Laravel, Django**
-- ⚡ Fun fact : *Je code plus vite que je ne choisis une tenue 😄*
+Fullstack developer with a strong focus on fintech ecosystems, payment infrastructures, and enterprise systems.
+
+Currently working on real-world solutions involving:
+- payment automation
+- ERP integrations
+- distributed systems
 
 ---
 
-### 🛠️ Stack & outils
+### Current Focus
+
+- Mojaloop integration & digital payment interoperability
+- Event-driven architecture (Kafka)
+- Backend systems (Laravel, Django)
+- ERPNext / Frappe ecosystem
+
+---
+
+### Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,python,django,react,js,ts,mysql,docker,git,linux,kafka" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,js,ts,react,mysql,docker,git,linux,kafka" />
 </p>
 
 ---
 
-### 🚀 Mes projets
+### Selected Work
 
-- 🛒 **Dino Market** → Plateforme e-commerce
-- 💳 **BFTPayPro** → Gestion d’abonnements + paiements automatisés
-- 🧾 **ERPNext Integration** → Connexion ERP avec systèmes financiers
+- Dino Market — E-commerce platform with local distribution logic  
+- BFTPayPro — Subscription management & automated payment system  
+- ERPNext Integrations — Financial system interoperability  
 
 ---
 
-### 📊 Mes stats GitHub
+### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blando-05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blando-05&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blando-05&show_icons=true&theme=default" />
 </p>
 
 ---
 
-### 📫 Me contacter
+### Contact
 
-- 💼 LinkedIn : (mets ton lien ici)
-- 📧 Email : (mets ton email)
+- LinkedIn: (add your link)
+- Email: (add your email)
 
 ---
 
 <p align="center">
-  ✨ "Construire l’avenir, une ligne de code à la fois"
+Focused on building reliable, scalable and impactful systems.
 </p>
