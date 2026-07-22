@@ -1,4 +1,5 @@
-<h1 align="center">Salut 👋, moi c'est Blandine</h1>
+<h1 align="center">Hi, 👋, 
+I'm Blandine RUFINO </h1>
 <h3 align="center">Fullstack Developer | Fintech  | Mojaloop Integrator</h3>
 
 <p align="center">
