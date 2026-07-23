@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```typescript
 const blandine = {
@@ -28,7 +28,7 @@ const blandine = {
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ const blandine = {
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -66,7 +66,7 @@ const blandine = {
 <tr>
 <td width="50%">
 
-### 🛒 Dino Market
+###  Dino Market
 E-commerce platform for African markets
 - Multi-vendor marketplace
 - Payment gateway integration
@@ -77,7 +77,7 @@ E-commerce platform for African markets
 </td>
 <td width="50%">
 
-### 💳 BFTPayPro
+###  BFTPayPro
 Automated subscription & payment management
 - Recurring billing engine
 - Payment orchestration
@@ -90,7 +90,7 @@ Automated subscription & payment management
 <tr>
 <td width="50%">
 
-### 🏦 Mojaloop Integration
+###  Mojaloop Integration
 Open Banking & Payment Switch
 - PISP transaction requests (PR #30)
 - Real-time payment processing
@@ -101,7 +101,7 @@ Open Banking & Payment Switch
 </td>
 <td width="50%">
 
-### 🔗 ERPNext Connector
+###  ERPNext Connector
 ERP-to-Payment integration layer
 - Frappe Framework customization
 - Financial system sync
@@ -117,7 +117,7 @@ ERP-to-Payment integration layer
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -131,7 +131,7 @@ ERP-to-Payment integration layer
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -141,7 +141,7 @@ ERP-to-Payment integration layer
 
 ---
 
-## 🌱 Currently Working On
+##  Currently Working On
 
 ```mermaid
 graph LR
@@ -158,7 +158,7 @@ graph LR
 
 ---
 
-## 💡 Open Source Contributions
+##  Open Source Contributions
 
 <div align="center">
 
@@ -171,7 +171,7 @@ graph LR
 
 <div align="center">
 
-### ✨ *"Building the future, one line of code at a time"*
+###  *"Building the future, one line of code at a time"*
 
 ![](https://komarev.com/ghpvc/?username=Blando-05&color=6C63FF&style=for-the-badge)
 
